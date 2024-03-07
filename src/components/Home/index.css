@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.home-container {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark-container {
+  background-color: #000000;
+}
+.light-container {
+  background-color: #ffffff;
+}
+.home-image {
+  width: 100%;
+  max-width: 200px;
+}
+
+.home-heading {
+  margin-top: 20px;
+}
+.dark-home {
+  color: #ffffff;
+}
+.light-home {
+  color: #171f46;
+}
